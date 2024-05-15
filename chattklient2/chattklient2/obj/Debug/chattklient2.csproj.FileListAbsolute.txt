@@ -1,0 +1,10 @@
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\bin\Debug\chattklient2.exe.config
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\bin\Debug\chattklient2.exe
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\bin\Debug\chattklient2.pdb
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.csproj.AssemblyReference.cache
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.Form1.resources
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.Properties.Resources.resources
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.csproj.GenerateResource.cache
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.csproj.CoreCompileInputs.cache
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.exe
+C:\Users\larsgabriel.nordqvi\source\repos\chattklient2\chattklient2\obj\Debug\chattklient2.pdb

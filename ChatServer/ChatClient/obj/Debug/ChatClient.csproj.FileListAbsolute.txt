@@ -1,0 +1,10 @@
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.Server.resources
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\larsgabriel.nordqvi\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.pdb

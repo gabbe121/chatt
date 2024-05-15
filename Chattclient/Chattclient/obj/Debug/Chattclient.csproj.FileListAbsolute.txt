@@ -1,0 +1,10 @@
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.csproj.AssemblyReference.cache
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.Properties.Resources.resources
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.csproj.GenerateResource.cache
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.csproj.CoreCompileInputs.cache
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\bin\Debug\Chattclient.exe.config
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\bin\Debug\Chattclient.exe
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\bin\Debug\Chattclient.pdb
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.Form1.resources
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.exe
+C:\Users\larsgabriel.nordqvi\source\repos\Chattclient\Chattclient\obj\Debug\Chattclient.pdb
